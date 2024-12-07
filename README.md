@@ -5,6 +5,7 @@
 
 project A TypeScript command-line interface (CLI) application that allows users to create and manage different types of vehicles (Cars, Trucks, and Motorbikes). Built using Object-Oriented Programming principles and the Inquirer.js library.
 
+## Video: (https://drive.google.com/file/d/1A9dZ0cpzYfPidPJgMWLbSBB-xg5Uldql/view?usp=sharing)
 ## Table of Contents
 
 - [Installation](#installation)
